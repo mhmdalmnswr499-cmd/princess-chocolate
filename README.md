@@ -19,7 +19,7 @@
                 <nav class="main-nav">
                     <a href="index.html" class="nav-link active">الرئيسية</a>
                     <a href="products.html" class="nav-link">المنتجات</a>
-                    <a href="about.html" class="nav-link">من نحن</a>
+                    <a href="about.html" class="nav-link">?من نحن</a>
                     <a href="contact.html" class="nav-link">تواصل معنا</a>
                 </nav>
                 <div class="header-actions">
